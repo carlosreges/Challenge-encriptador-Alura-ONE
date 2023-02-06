@@ -9,7 +9,7 @@ function validarTexto(){
     let validador = textoEscrito.match(/^[a-z]*$/);
 
     if(!validador || validador === 0) {
-        alert("Solo son permitidas letras minúsculas y sin acentos")
+        alert("Sólo son permitidas las letras minúsculas, sin tildes ni signos de puntuación.")
         location.reload();
         return true;
     }
