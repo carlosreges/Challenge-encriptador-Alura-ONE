@@ -9,3 +9,5 @@
 Luego de realizarlo e intentar modificar varios aspectos. Este no es el Encriptador definitivo, le haré algunos cambios para cambiarlo a mi estilo.
 
 Igual lo subo porque quiero verlo ya terminado y luego actualizarlo.
+
+#ChallengeONEcodificador4
